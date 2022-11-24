@@ -11,8 +11,6 @@
 우리 학교 교수님들께서 출제하신 대회 문제들을 직접 풀어볼 수 있고 기계학습/인공지능과 관련된 수업을 수강하는 학생들은 실습/과제/시험을 모두 한 번에 Seggle에서 해결할 수 있습니다. 
 
 Seggle을 통해 ML/AI 실력을 향상시켜 보세요😊
-
-## 프로젝트 기능
  
 ## 🛠️ 기술 스택
 - **Front-End** <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
